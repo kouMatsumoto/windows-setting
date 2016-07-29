@@ -13,3 +13,4 @@ My windows10 settings after clean installed.
 - Python
 - Slack
 - Skype
+- Trello
