@@ -1,5 +1,6 @@
 # windows-setting
-My windows10 settings after clean installed.
+Steps for setting up my Windows10 PC used for wed development.
+
 
 ## Windows Environment Settings
 
