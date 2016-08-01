@@ -20,6 +20,9 @@ Steps for setting up my Windows10 PC used for wed development.
 - Trello
 
 
-## App Setings
-- Node.js
+## Each App Setings
+### Node.js
 1. npm i -g npm gulp
+
+### MongoDB
+1. Create directory C:data/db
