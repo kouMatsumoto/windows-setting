@@ -18,3 +18,8 @@ Steps for setting up my Windows10 PC used for wed development.
 - Slack
 - Skype
 - Trello
+
+
+## App Setings
+- Node.js
+1. npm i -g npm gulp
