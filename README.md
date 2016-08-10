@@ -8,7 +8,7 @@ Steps for setting up my Windows10 PC used for wed development.
 - Google Chrome
 - Git for windows (Administrator)
 - JDK
-- Python3 (for node-gyp)
+- Python2.7 (for node-gyp)
 - Node.js
 - Visual Studio Code
 - WebStorm
