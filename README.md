@@ -9,10 +9,10 @@ Steps for setting up my Windows10 PC used for wed development.
 - Git for windows (Administrator)
 - JDK
 - Python2.7 (for node-gyp)
+- Visual Studio Community (for .net, Visual C++ components "VCBuild.exe", etc)
 - Node.js
 - Visual Studio Code
 - WebStorm
-- Visual Studio Community (for .net, Visual C++ environment)
 - Oracle VM VirtualBox
 - Vagrant
 - Python
