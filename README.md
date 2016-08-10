@@ -8,6 +8,7 @@ Steps for setting up my Windows10 PC used for wed development.
 - Google Chrome
 - Git for windows (Administrator)
 - JDK
+- Python3 (for node-gyp)
 - Node.js
 - Visual Studio Code
 - WebStorm
@@ -22,7 +23,7 @@ Steps for setting up my Windows10 PC used for wed development.
 
 ## Each App Setings
 ### Node.js
-1. npm i -g npm gulp
+1. npm i -g npm gulp typings node-gyp
 
 ### MongoDB
 1. Create directory C:data/db
