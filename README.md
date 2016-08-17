@@ -16,7 +16,6 @@ Steps for setting up my Windows10 PC used for wed development.
 - WebStorm
 - Oracle VM VirtualBox
 - Vagrant
-- Python
 - Slack
 - Skype
 - Trello
