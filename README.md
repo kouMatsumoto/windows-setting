@@ -14,6 +14,7 @@ Steps for setting up my Windows10 PC used for wed development.
 - Node.js
 - Visual Studio Code
 - WebStorm
+- Cygwin (Install 'rsync' and 'ssh' to vagrant)
 - Oracle VM VirtualBox 5.0.24 (5.1 is not compatible)
 - Vagrant 1.8.4 (1.8.5 is not compatible)
 - Slack
