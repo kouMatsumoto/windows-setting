@@ -11,7 +11,7 @@ Steps for setting up my Windows10 PC used for wed development.
 - Python2.7 (for node-gyp)
 - Visual Studio Community (for .NET, Visual C++ components "VCBuild.exe", etc, for node-gyp)
 - GraphicsMagick (Image processing for node-gm)
-- Node.js
+- nvm for windows
 - Visual Studio Code
 - WebStorm
 - Cygwin (Install 'rsync' and 'ssh' to vagrant)
