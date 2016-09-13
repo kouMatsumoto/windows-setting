@@ -26,5 +26,9 @@ Steps for setting up my Windows10 PC used for wed development.
 ### Node.js
 1. npm i -g npm gulp typings node-gyp
 
+### node-gyp
+show node-gyp installation
+important: Just installing Visual C++ Compiler was enough for me. By the way, you can do it easily right from VS 2015: File -> New Project -> Visual C++ -> Install Visual C++ components (or something similar).
+
 ### MongoDB
 1. Create directory C:data/db
