@@ -1,8 +1,11 @@
-# windows-setting
-Steps for setting up my Windows10 PC used for wed development.
+# Windows10 set up guide for WEB development
+This is my set up guide for WEB development using Node.js.
 
 
-## Windows Environment Settings
+## First Windows System Settings
+First, confirm and change windows system settings.
+System Langulage, and more...
+
 
 ## Install Apps
 - Google Chrome
@@ -17,6 +20,7 @@ Steps for setting up my Windows10 PC used for wed development.
 - Cygwin (Install 'rsync' and 'ssh' to vagrant)
 - Oracle VM VirtualBox 5.0.24 (5.1 is not compatible)
 - Vagrant 1.8.4 (1.8.5 is not compatible)
+
 - Slack
 - Skype
 - Trello
