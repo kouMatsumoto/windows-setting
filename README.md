@@ -36,6 +36,12 @@ Then, sign in to chrome with your google account for web development.
 
 #### Git for Windows
 Install as Administrator to arrow Git Bash as administrator.
+Confirm install options
+- Adjusting your PATH environment -> Use Git from the Windows Command Prompt (Default)
+- Configuring the line ending conversions -> Checkout as-is, commit Unix-style line endings (Not default)
+- Configuring the terminal emulator to use with Git Bash -> Use MinTTY (Default)
+- Configuring extra options -> Check all (Default)
+
 
 ## Each App Setings
 ### Node.js
