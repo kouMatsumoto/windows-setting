@@ -17,10 +17,10 @@ Uninstall default installed programs we don't use.
 - Google Chrome
 - Git for windows (Install as Administrator for privilege in Git Bush)
 - Python2.7 (for node-gyp)
-- JDK
-- Visual Studio Community (for .NET, Visual C++ components "VCBuild.exe", etc, for node-gyp)
-- GraphicsMagick (Image processing for node-gm)
+- Visual Studio 2015 Community (for .NET, Visual C++ components "VCBuild.exe", etc, for node-gyp)
 - nvm for windows
+- JDK
+- GraphicsMagick (Image processing for node-gm)
 - Visual Studio Code
 - WebStorm
 - Cygwin (Install 'rsync' and 'ssh' to vagrant)
@@ -45,8 +45,18 @@ Confirm install options
 
 #### Python2.7
 Install with all default options.  
-Python2.7 is required in node-gyp, so you must install.  
-After install, Set PATH environment to python.
+you must install this, because Python2.7 is dependency of node-gyp.  
+After installation, Set PATH environment to python.
+
+#### Visual Studio 2015 Community
+Install with all default options.
+you must install this, because .NET Framework and Visual C++ that included Visual Studio 2015 Installation are dependencies of node-gyp.  
+Important! :  After installation, you need to do below
+
+0. Run Visual Studio you installed.
+
+
+
 
 ## Each App Setings
 ### Node.js
