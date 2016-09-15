@@ -16,8 +16,8 @@ Uninstall default installed programs we don't use.
 ## Install Apps
 - Google Chrome
 - Git for windows (Install as Administrator for privilege in Git Bush)
-- JDK
 - Python2.7 (for node-gyp)
+- JDK
 - Visual Studio Community (for .NET, Visual C++ components "VCBuild.exe", etc, for node-gyp)
 - GraphicsMagick (Image processing for node-gm)
 - nvm for windows
@@ -41,6 +41,10 @@ Confirm install options
 - Configuring the line ending conversions -> Checkout as-is, commit Unix-style line endings (Not default)
 - Configuring the terminal emulator to use with Git Bash -> Use MinTTY (Default)
 - Configuring extra options -> Check all (Default)
+
+#### Python2.7
+Install with all default options.
+Python2.7 is required in node-gyp, so you must install.
 
 
 ## Each App Setings
