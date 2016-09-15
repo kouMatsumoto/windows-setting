@@ -26,10 +26,13 @@ Uninstall default installed programs we don't use.
 - Cygwin (Install 'rsync' and 'ssh' to vagrant)
 - Oracle VM VirtualBox 5.0.24 (5.1 is not compatible)
 - Vagrant 1.8.4 (1.8.5 is not compatible)
-
 - Slack
 - Skype
 - Trello
+
+### Google Chrome
+Install and Set default Web browser.
+Then, sign in to chrome with your google account for web development.
 
 
 ## Each App Setings
