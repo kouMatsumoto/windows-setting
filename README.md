@@ -54,6 +54,10 @@ you must install this, because .NET Framework and Visual C++ that included Visua
 Important! :  After installation, you need to do below
 
 0. Run Visual Studio you installed.
+0. Start New Project with Visual C++ Windows Template.
+0. Then Install Universal Windows Platform Tools.
+0. Select features All Visual C++, Microsoft Web Developer Tools, Universal All Windows App Development Tools, Windows8.1 and Windows Phone 8.0/8.1 Tools.
+
 
 
 
