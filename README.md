@@ -1,5 +1,5 @@
-# Windows10 set up guide for WEB development
-This is my set up guide for WEB development using Node.js.
+# Windows10 setup guide for Web development
+This is my setup guide for WEB development using Node.js in Windows10.
 
 
 ## First Windows System Settings
