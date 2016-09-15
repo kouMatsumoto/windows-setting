@@ -30,10 +30,12 @@ Uninstall default installed programs we don't use.
 - Skype
 - Trello
 
-### Google Chrome
+#### Google Chrome
 Install and Set default Web browser.
 Then, sign in to chrome with your google account for web development.
 
+#### Git for Windows
+Install as Administrator to arrow Git Bash as administrator.
 
 ## Each App Setings
 ### Node.js
