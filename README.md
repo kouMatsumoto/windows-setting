@@ -31,20 +31,21 @@ Uninstall default installed programs we don't use.
 - Trello
 
 #### Google Chrome
-Install and Set default Web browser.
+Install and Set default Web browser.  
 Then, sign in to chrome with your google account for web development.
 
 #### Git for Windows
-Install as Administrator to arrow Git Bash as administrator.
-Confirm install options
+Install as Administrator to arrow Git Bash as administrator.  
+Confirm install options  
+
 - Adjusting your PATH environment -> Use Git from the Windows Command Prompt (Default)
 - Configuring the line ending conversions -> Checkout as-is, commit Unix-style line endings (Not default)
 - Configuring the terminal emulator to use with Git Bash -> Use MinTTY (Default)
 - Configuring extra options -> Check all (Default)
 
 #### Python2.7
-Install with all default options.
-Python2.7 is required in node-gyp, so you must install.
+Install with all default options.  
+Python2.7 is required in node-gyp, so you must install.  
 After install, Set PATH environment to python.
 
 ## Each App Setings
