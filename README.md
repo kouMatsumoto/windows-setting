@@ -6,9 +6,12 @@ This is my set up guide for WEB development using Node.js.
 First, confirm and change windows system settings.
 System Langulage, and more...
 
-- System Language
+### System Language
+Set to English(US) in Display langage, Default input method, Welcome screen, System Account, and User account.
 
-Set to English in Display langage, Default input method, Welcome screen, System Account, and User account
+### Clean Installed Programs
+Uninstall default installed programs we don't use.
+
 
 ## Install Apps
 - Google Chrome
