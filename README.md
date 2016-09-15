@@ -45,7 +45,7 @@ Confirm install options
 #### Python2.7
 Install with all default options.
 Python2.7 is required in node-gyp, so you must install.
-
+After install, Set PATH environment to python.
 
 ## Each App Setings
 ### Node.js
