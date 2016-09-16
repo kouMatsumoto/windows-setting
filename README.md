@@ -34,6 +34,7 @@ Change view options
 - Visual Studio 2015 Community (for .NET, Visual C++ components "VCBuild.exe", etc, for node-gyp)
 - Node.js through Node Version Manager
 - node-gyp (Node.js native addon build tool)
+- MongoDB
 - JDK
 - GraphicsMagick (Image processing for node-gm)
 - Visual Studio Code
@@ -97,6 +98,15 @@ See installation in [github.com/node-gyp](https://github.com/nodejs/node-gyp)
 0. run 'npm config set msvs_version 2015'
 0. run 'npm i -g node-gyp'
 0. run 'node-gyp'
+
+#### MongoDB
+Install MongoDB.
+See Installation Guide in this [docs.mongodb.com](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
+
+0. Download msi file from [mongodb.com](https://www.mongodb.com/download-center#community)
+0. Install with complete option.
+0. Add PATH to mongodb installed (ex 'C:\Program Files\MongoDB\Server\3.2\bin').
+0. run 'mongo --help'
 
 
 ## Each App Setings
