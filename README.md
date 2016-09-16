@@ -32,7 +32,8 @@ Change view options
 - Git for windows (Install as Administrator for privilege in Git Bush)
 - Python2.7 (for node-gyp)
 - Visual Studio 2015 Community (for .NET, Visual C++ components "VCBuild.exe", etc, for node-gyp)
-- nvm for windows
+- Node.js through Node Version Manager
+- node-gyp (Node.js native addon build tool)
 - JDK
 - GraphicsMagick (Image processing for node-gm)
 - Visual Studio Code
@@ -72,8 +73,10 @@ Important! :  After installation, you need to do below
 0. Then Install Universal Windows Platform Tools.
 0. Select features All Visual C++, Microsoft Web Developer Tools, Universal All Windows App Development Tools, Windows8.1 and Windows Phone 8.0/8.1 Tools.
 
-#### nvm (Node.js Version Manager)
-Install from [github.com/nvm](https://github.com/coreybutler/nvm-windows/releases)
+#### Node.js through Node Version Manager
+Install Node.js through Node Version Manager (nvm-windows).
+First, Install nvm-windows from [github.com/nvm](https://github.com/coreybutler/nvm-windows/releases)
+Then, Install Node.js through nvm.
 
 0. Download setup zip files.
 0. Install nvm.exe as administrator.
@@ -83,6 +86,18 @@ Install from [github.com/nvm](https://github.com/coreybutler/nvm-windows/release
 0. run 'nvm use <installed version>'
 0. run 'node -v && npm -v'
 0. run 'npm update -g npm'
+
+#### node-gyp (Node.js native addon build tool)
+node-gyp is build tool in Node.js.
+You must install this in Node.js development.
+See installation in [github.com/node-gyp](https://github.com/nodejs/node-gyp)
+
+0. run 'npm install -g --production windows-build-tools' as Administrator
+0. run 'npm config set python python2.7'
+0. run 'npm config set msvs_version 2015'
+0. run 'npm i -g node-gyp'
+0. run 'node-gyp'
+
 
 ## Each App Setings
 ### Node.js
