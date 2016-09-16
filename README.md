@@ -5,12 +5,26 @@ This is my setup guide for WEB development using Node.js in Windows10.
 ## First Windows System Settings
 First, confirm and change windows system settings.
 System Langulage, and more...
+Below is setting list you need to.
+
+- System Language
+- Clean Programs default installed
+- File Explore Options
 
 #### System Language
 Set to English(US) in Display langage, Default input method, Welcome screen, System Account, and User account.
 
-#### Clean Installed Programs
+#### Clean Programs default installed
 Uninstall default installed programs we don't use.
+
+#### File Explore Options
+Change view options
+
+0. Enable: Display file full path in the title bar
+0. Enable: Show hidden files, folders, and drives
+0. Disable: Hide empty drives
+0. Disable: Hide extensions for known file types
+
 
 
 ## Install Apps
@@ -58,9 +72,10 @@ Important! :  After installation, you need to do below
 0. Then Install Universal Windows Platform Tools.
 0. Select features All Visual C++, Microsoft Web Developer Tools, Universal All Windows App Development Tools, Windows8.1 and Windows Phone 8.0/8.1 Tools.
 
+#### nvm (Node.js Version Manager)
+Install from [github.com/nvm](https://github.com/coreybutler/nvm-windows/releases)
 
-
-
+0. Download setup zip files.
 
 ## Each App Setings
 ### Node.js
