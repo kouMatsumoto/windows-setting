@@ -76,6 +76,13 @@ Important! :  After installation, you need to do below
 Install from [github.com/nvm](https://github.com/coreybutler/nvm-windows/releases)
 
 0. Download setup zip files.
+0. Install nvm.exe as administrator.
+0. Set User PATH environment to '%NVM_HOME%' and '%NVM_SYMLINK%'
+0. run 'nvm'
+0. run 'nvm install <version>'
+0. run 'nvm use <installed version>'
+0. run 'node -v && npm -v'
+0. run 'npm update -g npm'
 
 ## Each App Setings
 ### Node.js
