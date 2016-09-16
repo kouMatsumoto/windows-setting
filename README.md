@@ -107,7 +107,8 @@ See Installation Guide in this [docs.mongodb.com](https://docs.mongodb.com/manua
 0. Install with complete option.
 0. Add PATH to mongodb installed (ex 'C:\Program Files\MongoDB\Server\3.2\bin').
 0. run 'mongo --help'
-
+0. create folder 'C:\data\db'
+0. run 'mondod'
 
 ## Each App Setings
 ### Node.js
