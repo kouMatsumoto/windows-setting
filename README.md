@@ -126,3 +126,7 @@ important: Just installing Visual C++ Compiler was enough for me. By the way, yo
 ## Editor and IDE
 - WebStorm
 - Visual Studio Code
+
+
+## Communication Tools
+- Slack
