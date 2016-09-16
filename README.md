@@ -110,6 +110,9 @@ See Installation Guide in this [docs.mongodb.com](https://docs.mongodb.com/manua
 0. create folder 'C:\data\db'
 0. run 'mondod' and arrow network access
 
+
+
+
 ## Each App Setings
 ### Node.js
 1. npm i -g npm gulp typings node-gyp
@@ -118,5 +121,8 @@ See Installation Guide in this [docs.mongodb.com](https://docs.mongodb.com/manua
 show node-gyp installation
 important: Just installing Visual C++ Compiler was enough for me. By the way, you can do it easily right from VS 2015: File -> New Project -> Visual C++ -> Install Visual C++ components (or something similar).
 
-### MongoDB
-1. Create directory C:data/db
+
+
+## Editor and IDE
+- WebStorm
+- Visual Studio Code
