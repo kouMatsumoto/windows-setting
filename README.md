@@ -54,6 +54,7 @@ Confirm install options
 Install with all default options.  
 you must install this, because Python2.7 is dependency of node-gyp.  
 After installation, Set PATH environment to python.
+(ex. C:\Python27)
 
 #### Visual Studio 2015 Community
 Install with all default options.
