@@ -72,10 +72,9 @@ First, Install nvm-windows from [github.com/nvm](https://github.com/coreybutler/
 Then, Install Node.js through nvm.
 
 0. Download setup zip files.
-0. Install nvm.exe as administrator.
-0. Set User PATH environment to '%NVM_HOME%' and '%NVM_SYMLINK%'
-0. run 'nvm'
-0. run 'nvm install <version>'
+0. run nvm.exe.
+0. run 'nvm' to check installed
+0. run 'nvm install latest' or 'nvm install <version>'
 0. run 'nvm use <installed version>'
 0. run 'node -v && npm -v'
 0. run 'npm update -g npm'
