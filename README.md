@@ -104,8 +104,14 @@ See Installation Guide in this [docs.mongodb.com](https://docs.mongodb.com/manua
 
 
 ## Editors and IDEs
+
 - WebStorm
 - Visual Studio Code
+
+#### WebStorm
+Plugins to install
+- Material Theme UI
+- Git Flow Integration
 
 
 ## Communication Tools
