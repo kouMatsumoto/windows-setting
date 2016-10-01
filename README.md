@@ -7,18 +7,18 @@ First, confirm and change windows system settings.
 System Langulage, and more...
 Below is setting list you need to.
 
-- System Language
-- Clean Programs default installed
-- File Explore Options
+- Confirm System Language
+- Confirm Programs and Features
+- Modify File Explore Options
 
 #### System Language
 Set to English(US) in Display langage, Default input method, Welcome screen, System Account, and User account.
 
-#### Clean Programs default installed
-Uninstall default installed programs we don't use.
+#### Confirm Programs and Features
+Make sure whether unnecessary programs exist.
 
 #### File Explore Options
-Search "File Explorer Options" and open.
+Search "File Explorer Options" and open.  
 Change options below.
 
 0. General Tab (Privacy): Disable Show recently used files in Quick access
