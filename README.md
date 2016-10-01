@@ -18,13 +18,15 @@ Set to English(US) in Display langage, Default input method, Welcome screen, Sys
 Uninstall default installed programs we don't use.
 
 #### File Explore Options
-Change view options
+Search "File Explorer Options" and open.
+Change options below.
 
-0. Enable: Display file full path in the title bar
-0. Enable: Show hidden files, folders, and drives
-0. Disable: Hide empty drives
-0. Disable: Hide extensions for known file types
-
+0. General Tab (Privacy): Disable Show recently used files in Quick access
+0. General Tab (Privacy): Disable Show frequently used folders in Quick access
+0. View Tab: Enable: Display file full path in the title bar
+0. View Tab: Enable: Show hidden files, folders, and drives
+0. View Tab: Disable: Hide empty drives
+0. View Tab: Disable: Hide extensions for known file types
 
 
 ## Core Apps to development
