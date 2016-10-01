@@ -13,16 +13,19 @@ Below is heading list you have to do.
 
 
 #### System Language
+Invariably, use English to windows system language (Display langage, Default input method, Welcome screen, System Account, and User account). 
+Don't use other language for the above.
+
 Search "language" and open "Region & language" setting menu.  
-Make sure settings below are correct for you.
+Make sure below settings are correct.
 
 0. Date & time Tab: Time zone is set by your region.
 0. Region & language Tab: Country or region is set by your region.
 0. Region & language Tab: English is set as Windows display language.
-0. Region & language Tab: Add a language of yours only to use as another input method.
 
-Invariably, use English to windows system language (Display langage, Default input method, Welcome screen, System Account, and User account).  
-Don't use other language for this.  
+Then, add your language as another input method.
+
+0. Region & language Tab: Add a language of yours.
 
 #### Confirm Programs and Features
 Make sure whether unnecessary programs exist.
