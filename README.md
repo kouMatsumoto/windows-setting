@@ -27,8 +27,16 @@ Then, add your language as another input method.
 
 0. Region & language Tab: Add a language of yours.
 
+
 #### Confirm Programs and Features
 Make sure whether unnecessary programs exist.
+
+Search "program" and open "Programs and Features" and check.  
+Search "apps" and open "Apps & features" and check.
+
+By default, there are some unnecessary apps in "Apps & features".  
+Remove apps.
+
 
 #### File Explore Options
 Search "File Explorer Options" and open.  
