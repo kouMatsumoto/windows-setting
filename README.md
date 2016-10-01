@@ -2,17 +2,27 @@
 This is my setup guide for WEB development using Node.js in Windows10.
 
 
-## First Windows System Settings
-First, confirm and change windows system settings.
-System Langulage, and more...
-Below is setting list you need to.
+
+## Windows System Settings
+First of all, confirm and update windows system settings such as region, langulage and file explore options.  
+Below is heading list you have to do.
 
 - Confirm System Language
 - Confirm Programs and Features
 - Modify File Explore Options
 
+
 #### System Language
-Set to English(US) in Display langage, Default input method, Welcome screen, System Account, and User account.
+Search "language" and open "Region & language" setting menu.  
+Make sure settings below are correct for you.
+
+0. Date & time Tab: Time zone is set by your region.
+0. Region & language Tab: Country or region is set by your region.
+0. Region & language Tab: English is set as Windows display language.
+0. Region & language Tab: Add a language of yours only to use as another input method.
+
+Invariably, use English to windows system language (Display langage, Default input method, Welcome screen, System Account, and User account).  
+Don't use other language for this.  
 
 #### Confirm Programs and Features
 Make sure whether unnecessary programs exist.
