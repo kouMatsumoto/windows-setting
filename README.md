@@ -35,7 +35,7 @@ Search "program" and open "Programs and Features" and check.
 Search "apps" and open "Apps & features" and check.
 
 By default, there are some unnecessary apps in "Apps & features".  
-Remove apps.
+Remove it.
 
 
 #### File Explore Options
