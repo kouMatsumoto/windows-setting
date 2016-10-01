@@ -7,12 +7,19 @@ This is my setup guide for WEB development using Node.js in Windows10.
 First of all, confirm and update windows system settings such as region, langulage and file explore options.  
 Below is heading list you have to do.
 
+- Sign in as Microsoft account
 - Confirm System Language
 - Confirm Programs and Features
 - Modify File Explore Options
+- Modify Taskbar settings
+- Use developer mode
 
 
-#### System Language
+#### Sign in as Microsoft account
+To enable windows insider preview builds,  sign in windows as microsoft account.
+
+
+#### Confirm System Language
 Invariably, use English to windows system language (Display langage, Default input method, Welcome screen, System Account, and User account). 
 Don't use other language for the above.
 
@@ -38,7 +45,7 @@ By default, there are some unnecessary apps in "Apps & features".
 Remove it.
 
 
-#### File Explore Options
+#### Modify File Explore Options
 Search "File Explorer Options" and open.  
 Change options below.
 
@@ -48,6 +55,17 @@ Change options below.
 0. View Tab: Enable: Show hidden files, folders, and drives
 0. View Tab: Disable: Hide empty drives
 0. View Tab: Disable: Hide extensions for known file types
+
+
+#### Modify Taskbar settings
+Enable setting "Replace Command Prompt with Windows PowerShell in the menu...".  
+Search "taskbar" and open "Taskbar settings" and update.
+
+
+#### Use Developer mode
+Search "develop" and open "Use developer features".  
+check Developer mode.
+
 
 
 ## Core Apps to development
