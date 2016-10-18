@@ -151,6 +151,8 @@ See Installation Guide in this [docs.mongodb.com](https://docs.mongodb.com/manua
 
 #### WebStorm
 Plugins to install
+- .ignore
+- AceJump
 - Material Theme UI
 - Git Flow Integration
 
